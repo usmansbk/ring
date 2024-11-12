@@ -1,0 +1,28 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "8AH6H67YHZ.com.babakolo.ring"
+        ],
+        "components": [
+          {
+            "/": "*",
+            "comment": "Matches any URL."
+          }
+        ]
+      }
+    ]
+  },
+  "activitycontinuation": {
+    "apps": [
+      "8AH6H67YHZ.com.babakolo.ring"
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "8AH6H67YHZ.com.babakolo.ring"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.babakolo.ring",
+      "sha256_cert_fingerprints": [
+        "BF:29:E3:57:A7:6E:84:42:DE:60:48:8D:83:2C:E4:2F:5E:3A:99:EF:65:F3:26:EF:0A:4A:39:6C:78:1C:44:70"
+      ]
+    }
+  }
+]
